@@ -1,2 +1,3 @@
-# prettyfonts
-Pretty Font Generator
+# Pretty Fonts Generator
+
+Nothing to see here! :)
